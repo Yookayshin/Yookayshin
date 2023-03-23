@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ukeme
 - 👀 I’m interested in python, R language
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on projects regarding data analytics
+- 🌱 I’m currently studying to become a software engineer
+- 💞️ I’m looking to collaborating with others on projects
 - 📫 How to reach me yookayshintech@gmail.com
 
 <!---
